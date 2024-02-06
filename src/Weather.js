@@ -68,6 +68,12 @@ export default function Weather() {
           </div>
         </div>
       </div>
+      <footer>
+        <a href="https://github.com/ma1aise/weather-app-conversion">
+          Open-source code
+        </a>
+        , by Lisa Wells
+      </footer>
     </div>
   );
 }
